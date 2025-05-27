@@ -1,6 +1,6 @@
 👋Hi there!
 
-I'm Axel Tavernard, a newbie programmer who is currently studying software development at the academic institution ISTEC, at Lisbon.<br>
+I'm Axel, a newbie programmer who is currently studying software development at the academic institution ISTEC, at Lisbon.<br>
 My passion is programming, and learning new things everyday, that currently led me to where I am right now.<br>
 I'm currently studying the programming languages C#, Java Script and PHP. And Database management systems such as MySQL.
 
@@ -22,8 +22,8 @@ I'm currently studying the programming languages C#, Java Script and PHP. And Da
  
 <div> 
   <a href="https://www.youtube.com/@axeltav" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/axeltav_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/axeltav" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/axeltav_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target"_blank"></a>
+ 	<a href="https://www.twitch.tv/mougsz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:axeltavernard890@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/axel-tavernard-54a57b247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
