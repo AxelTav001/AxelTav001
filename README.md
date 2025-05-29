@@ -1,12 +1,3 @@
-👋Hi there!
-
-I'm Axel, a newbie programmer who is currently studying software development at the academic institution ISTEC, at Lisbon.<br>
-My passion is programming, and learning new things everyday, that currently led me to where I am right now.<br>
-I'm currently studying the programming languages C#, Java Script and PHP. And Database management systems such as MySQL.
-
-
-<br>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axeltav001&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axeltav001&layout=compact&icons=true&theme=transparent)](https://github.com/Axeltav001/github-readme-stats)
 
